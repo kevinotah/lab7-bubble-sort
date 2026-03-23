@@ -23,3 +23,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 11:57
 - **Prompt**: for the early stop optimiztion, I'm thinking of a flag, but thats about it. Hints, please
 
+### 23-03-2026 12:05
+- **Prompt**: FOrget about that for now. I would lkike to visualise the sorting as it is happenoing. FIrst, I would like to explore a terminal based approach. What do you suggest?
+
