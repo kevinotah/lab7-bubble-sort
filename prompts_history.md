@@ -8,3 +8,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 11:46
 - **Prompt**: Can you review my implementation and make some suggestions?
 
+### 23-03-2026 11:51
+- **Prompt**: I'm lost on type hints, hints on how to go about it
+
