@@ -20,3 +20,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 11:55
 - **Prompt**: and now?
 
+### 23-03-2026 11:57
+- **Prompt**: for the early stop optimiztion, I'm thinking of a flag, but thats about it. Hints, please
+
