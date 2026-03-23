@@ -1,4 +1,4 @@
-def bubblesort(arr):
+def bubblesort(arr: list[int]) -> list[int]:
     if len(arr) <= 1:
         return arr
     
